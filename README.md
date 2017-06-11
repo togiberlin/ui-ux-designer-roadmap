@@ -32,7 +32,7 @@ Instagram achieved this success by reducing the clutter and feature bloat of Fac
 
 Instagram has a sneaky UX pattern called **Autoplay**. If you do nothing, Instagram keeps loading new content. The path of least resistance - doing nothing - leads to using Instagram more, not less. With time, using Instagram becomes a subconscious, deeply embedded **habit**. And building habits is what you ultimately want, because they are so hard to unlearn.
 
-With these examples, it should be clear that UX is an critical part of app success and user retention. Without further ado, here now the UX roadmap:
+With these examples, it should be clear that UX is a critical part of app success and user retention. Without further ado, here now the UX roadmap:
 
 ![UX Researcher Roadmap](http://i.imgur.com/duKBzNL.png)
 
@@ -41,7 +41,7 @@ To augment above mentioned UX buzzwords, scroll down to the next chapter to see 
 ## UX Pattern Examples
 Modern apps make heavy usage of **nudges**. A nudge is a soft intervention for gently pushing a user into a specific action or behavior - without any coercion or force. Nudge theory has been applied with success for influencing e.g. government policy. For example, the British government employs [a dedicated nudge unit](http://www.behaviouralinsights.co.uk/) to gently push unsuspecting citizens into specific decisions. Nudges are also used in web and mobile apps. Nudges shouldn't trick users into behaviors which they do not want. Ideally, nudges are used to help users achieve something which they already want to do. For example, [FitBit](https://www.fitbit.com/de/home) helps users to achieve their fitness goals. Another example is [Habitica](https://habitica.com/static/front), which helps you to learn positive habits and unlearn negative habits in form of a gamified role play game. This kind of **digital paternalism** is becoming more popular and can transform users into the best versions of themselves. Below are some positive as well as sneaky examples of nudges:
 
-> Annie installed the new fitness app on her phone and as has been working out for a few weeks. It has worked well, because the main dashboard shows a calendar with her active days marked in orange. She is encouraged to keep a streak. If she misses a day, the streak is lost. Annie has worked out for 2 weeks straight and has never missed a day.
+> Annie installed the new fitness app on her phone and has been working out for a few weeks. It has worked well, because the main dashboard shows a calendar with her active days marked in orange. She is encouraged to keep a streak. If she misses a day, the streak is lost. Annie has worked out for 2 weeks straight and has never missed a day.
 
 This nudge is making use of our human desire for **order**. Humans perceive **symmetry** as beautiful, and subconsciously crave to keep it that way.
 
@@ -51,7 +51,7 @@ This nudge is making use of human **curiosity**. It is important, to always stay
 
 > Roseanne decided to lose some weight and get fit. She installed the Nike+ app. When the app started for the first time, it asked Roseanne to connect the app with her Facebook account. She agreed. She was eager and curious to try the app.
 
-**Defaulting** can happen by in-your-face prompts and notifications ("Do you want to allow Nike+ to connect to your Facebook account? Yes/No"). To make it more sneaky, the yes-checkbox should be ticked by default and be substantially larger than the no-checkbox. Make sure to avoid **choice overload** by presenting not more than 3-4 options. Whatever the user chooses, it will be in your favor. The art of presenting choices is called **choice architecture**. Make sure that the desired action is the path of least resistance.
+**Defaulting** can happen by in-your-face prompts and notifications ("Do you want to allow Nike+ to connect to your Facebook account? Yes/No"). To make it more sneaky, the yes-checkbox should be ticked by default and be substantially larger than the no-checkbox. Make sure to avoid **choice overload** by presenting not more than 3-4 options. Whatever the user chooses, it will be in your favor. The art of effectively presenting choices is called **choice architecture**. Make sure that the desired action is the path of least resistance.
 
 > After successful Nike+ and Facebook, Roseanne started a run. The run was posted on Roseanne's Facebook wall by default. Her family, friends and coworkers saw that post and were staggered. After all, Roseanne was heavily obese.
 
@@ -66,7 +66,7 @@ This nudge makes use of **peer comparison**. People are usually happy. Until the
 This nudge is making use of **social proof**. Social proof takes advantage of the human herd instinct. We perceive things to be trustworthy, if other people do it too. If advertised with celebrities, it can become even more powerful.
 
 > Howard has the habit to read newspaper magazines in the morning with a coffee. However, his old subscription of the "Daily Mail" has just ended recently. He was interested in picking up the "Economist". ![Economist Phantom Pricing](http://futurestartup.com/wp-content/uploads/2012/05/untitled-12.jpg)<br>
-He saw the pricing table: "a digital subscription costs me 59 USD. But the print subscription costs me 125 USD. Okay...wait a minute! I get the print edition for 125 USD AND the digital edition for free? That's a bargain, naturally I'll pick the third option."
+He saw the pricing table: "a digital subscription costs me 59$. But the print subscription costs me 125$. Okay...wait a minute! I get the print edition for 125$ AND the digital edition for free? That's a bargain, naturally I'll pick the third option."
 <br><br>_Referenced from http://futurestartup.com/wp-content/uploads/2012/05/untitled-12.jpg_
 
 This sneaky pricing pattern is called **Phantom Pricing**. Why? Because the middle one is the phantom. It is just a dummy, a fake, a decoy - to make the third option more attractive.
@@ -96,16 +96,16 @@ When actions are repeatedly done, they become a habit. A habit is a hardwired ro
 
 - **Internal Triggers**: Peters constant usage of Instagram is hardwired into his brain. Whenever he felt bored, he automatically opened his Instagram to relieve his boredom. In his mind, getting rid of boredom is now **associated** with Instagram.
 
-- **Ability**: Peter feels proud, because he has 22k followers. It means, that his content, personality and hobbies and worthy of attention. It makes him proud and motivates him to use Instagram on a daily basis, because he craves **social acceptance**. The famous watch manufacturer Daniel Wellington became aware of Peter's status and offered him a lucrative deal: he advertises DW watches, and get's a percentage of the purchase. Instagram offers Peter a great opportunity to get **money**. This motivation keeps Peter for at least an hour occupied on Instagram, every day.
+- **Ability**: Peter feels proud, because he has 22k followers. It means, that his content, personality and hobbies are worthy of attention. It makes him proud and motivates him to use Instagram on a daily basis, because he craves **social acceptance**. The famous watch manufacturer Daniel Wellington became aware of Peter's status and offered him a lucrative deal: he advertises DW watches, and get's a percentage of the purchase. Instagram offers Peter a great opportunity to get **money**. This motivation keeps Peter for at least an hour occupied on Instagram, every day.
 
 - **Variable Reward**: Peter has great interest in bodyweight exercises. He follows some calisthenics celebrities on Instagram. He is always searching for new ways to improve his workouts. At the same time, he wants to track his progress with his Daniel Wellington watch sales. He never knows, what type of new content he will encounter. This thin veil of mystery - the **variable reward** - keeps Peter coming back to Instagram.
 
-- **Investment**: Peter was a heavily obese person. He started posting his progress on Instagram. Within 2 years, he lost 60 pounds. It felt great, because like-minded people encouraged and pushed him to new heights. The more Peter posts about his progress, the more positive feedback he gets. The more Peter posts about himself, the more he feels **rewarded**.
+- **Investment**: Peter was a heavily obese person. He started posting his progress on Instagram. Within 2 years, he lost 60 pounds. It felt great, because like-minded people encouraged and pushed him to new heights. The more Peter posts about his progress, the more positive feedback he gets. The more Peter posts about himself, the more he feels **rewarded**. His **investment** into the Instagram platform pays off.
 
 The more Peter goes through the Hook cycle, the firmer his dependence on Instagram becomes. Now, after 2 years of usage, he can't imagine a life without using Instagram. Using Instagram has become a deeply embedded habit.
 
 ### B.J. Foggs Behavior Model
-If you want to understand, when a user will or will not do a specific action, you can use BJ Fogg's Behavior Model. Aim to make the desired action easy and cover user motivations.
+If you want to understand, when a user will or will not do a specific action, you can use BJ Fogg's Behavior Model. Aim to make the desired action easy and cover some basic user motivations.
 ![BJ Fogg's Behavior Model](http://www.behaviormodel.org/index_files/bj-fogg-behavior-model-grapic.jpg)
 <br>_Referenced from: http://www.behaviormodel.org/_
 
