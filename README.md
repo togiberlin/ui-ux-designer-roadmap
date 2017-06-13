@@ -7,10 +7,13 @@ Below, you'll find a roadmap on how to become a UI/UX designer. It lists all com
 If you have any improvements, don't hesitate to post an [issue](https://github.com/togiberlin/designer-roadmap/issues) or make a [pull request](https://github.com/togiberlin/designer-roadmap/pulls) 🙃
 
 ## 🚀 Introduction
+Creating a successful tech startup depends on many factors. Having an aesthetic ```user interface (UI)``` and a great ```user experience (UX)``` are integral parts of entrepreneurial success. These interesting fields are quite young disciplines and require knowledge in different areas. When starting a small business, hiring lots of specialists with a limited budget is not realistic. Usually, the first iteration of a Minimum Viable Product (MVP) is done by **hybrids**. This guide is meant to help you creating a great MVP and get at least 80% of the user interface/psychology right on the first try - **the lean way**.
+
+## Distinguishing Between UI and UX
 Often times, people use the terms ```UI``` and ```UX``` interchangeably. Despite some shared elements, there are notable differences. Here is a simple definition:
 
-- When people say __UI__, they usually mean everything related to graphic design, colors, fonts, backgrounds, buttons etc.
-- When people say __UX__, they usually mean tasks related to psychology, human decision making, user research, personas, user stories, workflows, A/B testing, statistics and so on.
+- When people say __UI__, they usually mean everything related to graphic design, colors, fonts, backgrounds, buttons, stock photos, icons etc.
+- When people say __UX__, they usually mean tasks related to psychology, human decision making, user research, personas, user stories, workflows, A/B testing, statistical evaluation and so on.
 
 Here, you see the common characteristics which both UI and UX people are expected to bring to the table:
 
@@ -22,7 +25,7 @@ The tools of the trade for UI design are mainly [Sketch](https://www.sketchapp.c
 ![UI Designer Roadmap](http://i.imgur.com/nGgB1ZF.png)
 
 ## 🔮 User Experience Researcher Roadmap
-The main focus of ```UX``` is to get the __psychology__ right. According to [Business Insider](http://www.businessinsider.de/average-number-of-apps-vs-time-spent-2016-5?r=US&IR=T), the average U.S. citizen spends around 40 minutes daily on a smartphone. On average, 27 apps (!) are competing for these 40 minutes. In a world full of distractions, attention has become the most precious resource. **Mental resources** are limited and highly contested. At the same time, app stores are [incredibly crowded](http://www.businessinsider.com/top-app-store-marketing-tips-2-2014-2?IR=T), and it keeps getting worse. [Research](http://andrewchen.co/new-data-shows-why-losing-80-of-your-mobile-users-is-normal-and-that-the-best-apps-do-much-better/) found out, that on average 80% of users delete apps within the first 3 days. With these abnormally high __churn rates__, delivering the standard "good usability and user experience" line is simply not enough. For the competitive edge, apps need to be addictive. This can be achieved by state-of-the-art UX patterns and psychology. E.g. according to the [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-2785744/Facebook-Instagram-favourite-social-network-teens.html), Instagram overtook Facebook in popularity - because the founders of Instagram got the psychology right.
+The main focus of ```UX``` is to get the __psychology__ right. According to [Business Insider](http://www.businessinsider.de/average-number-of-apps-vs-time-spent-2016-5?r=US&IR=T), the average U.S. citizen spends around 40 minutes daily on a smartphone. On average, 27 apps (!) are competing for these 40 minutes. In a world full of distractions, attention has become the most precious resource. **Mental resources** are limited and highly contested. At the same time, app stores are [incredibly crowded](http://www.businessinsider.com/top-app-store-marketing-tips-2-2014-2?IR=T), and it keeps getting worse. [Research](http://andrewchen.co/new-data-shows-why-losing-80-of-your-mobile-users-is-normal-and-that-the-best-apps-do-much-better/) found out, that on average 80% of users delete apps within the first 3 days. With these abnormally high __churn rates__, delivering the standard "good usability" line is simply not enough. For the competitive edge, apps need to be addictive. This can be achieved by psychology and state-of-the-art **UX patterns**. E.g. according to the [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-2785744/Facebook-Instagram-favourite-social-network-teens.html), Instagram overtook Facebook in popularity - because the founders of Instagram got the psychology right.
 
 > "In 2006, two students in [BJ Fogg’s Stanford class on "Persuasive Technology"](https://bjfogg.com/) collaborated on a project called Send the Sunshine. Their insight was that one day mobile phones (this was the pre-smartphone era) would be used to send emotions: if your friend was in a place where the weather wasn’t good and you were standing in sunshine, your phone could prompt you to take a picture and send it to them to cheer them up. One of the two students, Mike Krieger, went on to co-found Instagram, where over 400m users now share sunrises, sunsets and selfies."<br><br>Referenced from [https://www.1843magazine.com/features/the-scientists-who-make-apps-addictive](https://www.1843magazine.com/features/the-scientists-who-make-apps-addictive)
 
@@ -38,7 +41,7 @@ With these examples, it should be clear that UX is a critical part of app succes
 
 To augment above mentioned UX buzzwords, scroll down to the next chapter to see practical, real-life examples on successful UX.
 
-## UX Pattern Examples
+## UX Pattern Examples: Effectively Applying Nudge Theory
 Modern apps make heavy usage of **nudges**. A nudge is a soft intervention for gently pushing a user into a specific action or behavior - without any coercion or force. Nudge theory has been applied with success for influencing e.g. government policy. For example, the British government employs [a dedicated nudge unit](http://www.behaviouralinsights.co.uk/) to gently push unsuspecting citizens into specific decisions. Nudges are also used in web and mobile apps. Nudges shouldn't trick users into behaviors which they do not want. Ideally, nudges are used to help users achieve something which they already want to do. For example, [FitBit](https://www.fitbit.com/de/home) helps users to achieve their fitness goals. Another example is [Habitica](https://habitica.com/static/front), which helps you to learn positive habits and unlearn negative habits in form of a gamified role play game. This kind of **digital paternalism** is becoming more popular and can transform users into the best versions of themselves. Below are some positive as well as sneaky examples of nudges:
 
 > Annie installed the new fitness app on her phone and has been working out for a few weeks. It has worked well, because the main dashboard shows a calendar with her active days marked in orange. She is encouraged to keep a streak. If she misses a day, the streak is lost. Annie has worked out for 2 weeks straight and has never missed a day.
@@ -73,21 +76,62 @@ This sneaky pricing pattern is called **Phantom Pricing**. Why? Because the midd
 
 > Back in 2010, one of the most outstanding features of the new iPhone 4 was FaceTime. FaceTime allowed you to make videocalls and stay in contact with loved ones. Despite disappointed press coverage - after all, Skype had been around for 7 years - people gathered in front of Apple stores in masses to snatch the iPhone 4.
 
-This UX pattern is making use of **emotional branding** by building strong **mental associations**. Human brains store information in form of a network. If we want to recall information of a certain node, specific paths are activated. With **association marketing**, you can enrich e.g. the "iPhone 4" node with certain characteristics and emotions. Apple achieved this with a brilliant, highly [emotional ad on FaceTime](https://www.youtube.com/watch?v=cKoLp_lGo14). In this clip, you can see e.g. a deployed soldier seeing his newborn baby via FaceTime. Emotions are strong, because they have the power to circumvent rational thinking.
+This UX pattern is making use of **emotional branding** by building strong **mental associations**. Human brains store information in form of a network. If we want to recall information of a certain node, specific paths are activated. With **association marketing**, you can enrich e.g. the "iPhone 4" node with certain characteristics and emotions. Apple achieved this with a brilliant, highly [emotional ad on FaceTime](https://www.youtube.com/watch?v=cKoLp_lGo14). In this clip, you can see e.g. a deployed soldier seeing his newborn baby via FaceTime. Now whenever you think of iPhone 4 or FaceTime - whether you want it or not - you have to think about that happy soldier seeing his newborn baby via FaceTime. Whenever you recall the "iPhone 4" or "FaceTime" node in your brain - you associate it with positive feelings. That's state-of-the-art marketing. Emotions are strong, because they have the power to circumvent rational thinking. For example, all objections about the exorbitant price of Apple products are quickly forgotten when there is a strong, positive emotion...you simply want that new phone.
 
-## Understanding Human Decision Making
-Above mentioned UX patterns show, that a *homo oeconomicus* doesn't always make decisions based on intellect and reason. Emotions, biases, associations, "gut feeling" and the unreasonable do play a huge role in decision making. Psychologists have classified human thinking modes into a **slow thinking mode** and a **fast thinking mode**, also known as Dual Process Theory.
+> Just recently, Jake registered on Uber as a driver. In the taxi industry, the overall demand for cabs and therefore his income fluctuate on a daily basis. On some days, he barely has customers. He hates those days. He handles this problem by setting a fixed amount as his daily goal. If he doesn't manage to reach it, he simply works longer hours until he reaches that daily goal. On some days, he spends 18 hours working nonstop to compensate for the "losses" due to lack of customers.
 
-### Dual Process Theory
+This UX pattern is called **loss aversion**. Humans hate to lose something, which they perceive as theirs. Studies have found out, that humans perceive things which they own of higher value than things, which they don't own. As a consequence, people are ready for risky behavior to *defend what's rightfully theirs*. Marketers like Groupon use this technique by sending perishable coupons with high discounts on e.g. smartphones. Combined with great urgency, people feel the need to secure *their* discounts. Other good examples are competitive online games like Poker, Call of Duty, League of Legends etc. Some players do crazy stuff to defend their *virtual leadership and number 1 position*.
+
+> Jim was looking for a Google Nexus phone on his Craigslist app. He found a nice one for 500$. He thought, that this price tag was a bit too much. His plan is now to contact that guy and ask for 450$ instead.
+
+This UX pattern is called **anchoring**. If people have little clue of market prices, give them a number to influence the outcome in your favor. Subconsciously, they will orient themselves on your price.
+
+## Understanding Human Decision Making: Humans Are (Ir)rational
+Above mentioned UX patterns show, that the *homo oeconomicus* doesn't always make decisions based on intellect and reason. Emotions, biases, associations, "gut feeling" and the unreasonable do play a huge role in decision making. Psychologists have classified human thinking modes into a **slow thinking mode** and a **fast thinking mode**, also known as Dual Process Theory.
+
+### Thinking Fast & Slow: Dual Process Theory
 - The **slow thinking mode** is applied when encountering unusual situations, which require intensive thought. Example: deciding between two video editing software, which both do exactly the same and cost the same. You are probably trying come to a decision based on popularity, UI aesthetics, YouTube app reviews, testimonials, blog entries, friends opinion etc. Once you gathered all necessary information, you make the decision to buy.
 
 - The **fast thinking mode** is applied when facing familiar situations, which you already encountered in the past. The brain stores common routines for familiar situations and tries to *automate* the decision making in order to save mental resources. Example: you get another annoying newsletter from a forum where you registered. Without opening or reading it, you immediately delete the email.
 
-The figure below shows the Spectrum of Thinking Interventions by Stephen Wendel. By repeating actions, e.g. heuristics move further to the left and become habits.
+The figure below shows the Spectrum of Thinking Interventions by Stephen Wendel.
 
 ![Spectrum of Thinking Interventions](http://i.imgur.com/CC11AFd.png)
 
-### Nir Eyal's Hook Model
+By repeating actions, e.g. ```heuristics``` move further to the left and become ```habits```.
+
+### Do or Not Do: B.J. Foggs Behavior Model
+![BJ Fogg's Behavior Model](http://www.behaviormodel.org/index_files/bj-fogg-behavior-model-grapic.jpg)
+<br>_Referenced from: http://www.behaviormodel.org/_
+
+If you want to understand, when a user will or will not do a specific action, you can use BJ Fogg's Behavior Model. It is simple, quick and intuitive. The ```B=MAT``` formula shows, that 3 factors must be present until a behavior occurs: **Motivation**, **Ability** and **Trigger**.
+
+> Behavior = Motivation * Ability * Trigger
+
+- **Core motivators**: pleasure/pain, hope/fear, social acceptance/rejection
+- **Ability factors**: time, money, physical effort, brain cycles, social deviance, non-routine
+- **Triggers**: facilitator, spark, signal. A spark is a trigger that motivates behavior. A facilitator makes behavior easier. And a signal indicates or reminds.
+
+One real-life example: Apple Watch Purchase
+- Users motivation: I want to run a marathon for the first time in my life. The tracking and analytics capability of the Apple Watch gives me **hope**, to finally achieve this goal.
+- Users ability: I've got a well paying job, which allows me to afford an Apple Watch. **Money** is no constraint. This afternoon, I have plenty of **time** to go to the Apple Store. My friends use smart watches as fitness trackers, so in my social circle it's well accepted. It is no **social deviance** to have a smartwatch.
+- Existent triggers: A few weeks ago, I saw the Apple Watch advertisement (**spark**). I've got a friend, who's also a runner and highly enthusiastic about the tracking/analytics feature (**facilitator**). This morning, I saw a runner in the park with an Apple Watch (**signal**).
+- Resulting behavior: I go to the Apple Store. After checking out it's features and overall user experience, I make the decision to buy the Apple Watch sports model. 
+
+### Understanding the Decision Making Process: Stephen Wendel's CREATE Action Funnel
+![CREATE action funnel](https://www.nirandfar.com/wp-content/uploads/2014/08/Screenshot-2014-08-23-11.51.05.png)
+
+*Referenced from [https://www.nirandfar.com/wp-content/uploads/2014/08/Screenshot-2014-08-23-11.51.05.png](https://www.nirandfar.com/wp-content/uploads/2014/08/Screenshot-2014-08-23-11.51.05.png)*
+
+The CREATE Action Funnel is useful to explain actions and behavior in a slightly finer granularity than e.g. BJ Fogg's Behavior Model. The CREATE Action Funnel consists of the following elements:
+
+- **Cue**: A cue can be either internal or external. **External cues** can be e.g. text messages, emails or seeing e.g. running shoes. When the mind drifts automatically to the action, then it represents an **internal cue**. For external cues, it's best practice to a) place the product into the user's daily environment, b) to give each time a different cue to avoid being ignored, c) building strong associations with the user's existing routines.
+- **Reaction**: If you ask people to do something, you are addressing their conscious, or slow-thinking mode. But it is the intuitive, fast-thinking mode you gotta pass first. We usually know within milliseconds, whether we want to do something, or not. At this stage, it is best practice to win users **trust** by being **authentic**, displaying **social proof** and displaying **strong authority on the subject**. Make sure, that the *first time user experience* is frictionless, frustration-free and generally positive. 
+- **Ability**: Once the decision has been made to do the action, is it actually **feasible** and realistic? The user must know clearly, what **steps** are required to successfully execute. Furthermore, that user must have the **resources** required for action. Also, the user must have the necessary **skills**. Last but not least, no user will ever do something what's going to fail. The user must be **convinced in the success of the action**.
+- **Timing**: At this stage, the user is aware of the action and has made the decision to do it. But does he really have to do it **now**? Why not postpone/procrastinate it indefinitely..and end up nothing, at all? You gotta create **urgency**. Urgency can be either internal or external. External urgency is e.g. when you know, that you have to put in your taxes (otherwise, the IRS will come to you). Internal urgency can be either stronger like e.g. hunger, thirst; or weaker like e.g. boredom. Users can also be convinced to do something without urgency. Sometimes, a great help is to be **specific**. Consider this example: "You should exercise regularly." vs. "Exercise tomorrow morning at 7 A.M.". The last one feels more real, right? And helps us to remember it, too.
+- **Execution**: Yay! The user passed through all stages of the CREATE action funnel and executed the action.
+
+### Building Habits: Nir Eyal's Hook Model
 ![Nir Eyals Hook Model](http://i.imgur.com/xM2O614.png)
 
 When actions are repeatedly done, they become a habit. A habit is a hardwired routine, which costs very little mental resources, is easy to do and very hard to unlearn. Nir Eyal's Hook model explains perfectly, how habits can be formed. Let's come back to our Instagram example:
@@ -104,10 +148,8 @@ When actions are repeatedly done, they become a habit. A habit is a hardwired ro
 
 The more Peter goes through the Hook cycle, the firmer his dependence on Instagram becomes. Now, after 2 years of usage, he can't imagine a life without using Instagram. Using Instagram has become a deeply embedded habit.
 
-### B.J. Foggs Behavior Model
-If you want to understand, when a user will or will not do a specific action, you can use BJ Fogg's Behavior Model. Aim to make the desired action easy and cover some basic user motivations.
-![BJ Fogg's Behavior Model](http://www.behaviormodel.org/index_files/bj-fogg-behavior-model-grapic.jpg)
-<br>_Referenced from: http://www.behaviormodel.org/_
+## Applying Techniques Into a Cohesive UX Vision: Mel Edwards Customer Experience Map
+[TBD]
 
 ### Recommended Readings
 - **Wendel, Stephen (2013)**: _"Designing for Behavior Change: Applying Psychology and Behavioral Economics"_, O'Reilly Media, USA 
