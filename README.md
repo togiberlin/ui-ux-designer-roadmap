@@ -7,7 +7,7 @@ Below, you'll find a roadmap on how to become a UI/UX designer. It lists all com
 If you have any improvements, don't hesitate to post an [issue](https://github.com/togiberlin/designer-roadmap/issues) or make a [pull request](https://github.com/togiberlin/designer-roadmap/pulls) 🙃
 
 ## 🚀 Introduction
-Creating a successful tech startup depends on many factors. Having an aesthetic ```user interface (UI)``` and a great ```user experience (UX)``` are integral parts of entrepreneurial success. These interesting fields are quite young disciplines and require knowledge in different areas. When starting a small business, hiring lots of specialists with a limited budget is not realistic. Usually, the first iteration of a Minimum Viable Product (MVP) is done by **hybrids**. This guide is meant to help you creating a great MVP and get at least 80% of the user interface/psychology right on the first try - **the lean way**.
+Creating a successful tech startup depends on many factors. Having an aesthetic ```user interface (UI)``` and a great ```user experience (UX)``` are integral parts of entrepreneurial success. These interesting fields are quite young disciplines and require knowledge in different areas. When starting a small business, hiring lots of specialists with a limited budget is not realistic. Usually, the first iteration of a great Minimum Viable Product (MVP) is done by **hybrids**. This guide is meant to help you creating a great MVP and get at least 80% of the design/psychology right on the first try - **the lean way**.
 
 ## Distinguishing Between UI and UX
 Often times, people use the terms ```UI``` and ```UX``` interchangeably. Despite some shared elements, there are notable differences. Here is a simple definition:
@@ -80,11 +80,11 @@ This UX pattern is making use of **emotional branding** by building strong **men
 
 > Just recently, Jake registered on Uber as a driver. In the taxi industry, the overall demand for cabs and therefore his income fluctuate on a daily basis. On some days, he barely has customers. He hates those days. He handles this problem by setting a fixed amount as his daily goal. If he doesn't manage to reach it, he simply works longer hours until he reaches that daily goal. On some days, he spends 18 hours working nonstop to compensate for the "losses" due to lack of customers.
 
-This UX pattern is called **loss aversion**. Humans hate to lose something, which they perceive as theirs. Studies have found out, that humans perceive things which they own of higher value than things, which they don't own. As a consequence, people are ready for risky behavior to *defend what's rightfully theirs*. Marketers like Groupon use this technique by sending perishable coupons with high discounts on e.g. smartphones. Combined with great urgency, people feel the need to secure *their* discounts. Other good examples are competitive online games like Poker, Call of Duty, League of Legends etc. Some players do crazy stuff to defend their *virtual leadership and number 1 position*.
+This UX pattern is called **loss aversion**. Humans hate to lose something, which they perceive as theirs. Studies have found out, that humans perceive things which they own to be of higher value than things, which they don't own. As a consequence, people are ready for risky behavior to *defend what's rightfully theirs*. Marketers like Groupon use this technique by sending perishable coupons with high discounts on e.g. smartphones. Combined with great urgency, people feel the need to secure *their* discounts. Other good examples are competitive online games like Poker, Call of Duty, League of Legends etc. with **in-app stores/purchases/DLCs**. In many MMORPGs, it is possible to gain a competitive edge by purchaseable items such as special swords, shields, health potions and so on. Some players do crazy stuff to defend their *virtual leadership and number 1 position*.
 
 > Jim was looking for a Google Nexus phone on his Craigslist app. He found a nice one for 500$. He thought, that this price tag was a bit too much. His plan is now to contact that guy and ask for 450$ instead.
 
-This UX pattern is called **anchoring**. If people have little clue of market prices, give them a number to influence the outcome in your favor. Subconsciously, they will orient themselves on your price.
+This UX pattern is called **anchoring**. If people have little clue of market prices, give them a number to influence the outcome in your favor. Subconsciously, they will orient themselves on your mentioned price.
 
 ## Understanding Human Decision Making: Humans Are (Ir)rational
 Above mentioned UX patterns show, that the *homo oeconomicus* doesn't always make decisions based on intellect and reason. Emotions, biases, associations, "gut feeling" and the unreasonable do play a huge role in decision making. Psychologists have classified human thinking modes into a **slow thinking mode** and a **fast thinking mode**, also known as Dual Process Theory.
@@ -100,7 +100,7 @@ The figure below shows the Spectrum of Thinking Interventions by Stephen Wendel.
 
 By repeating actions, e.g. ```heuristics``` move further to the left and become ```habits```.
 
-### Do or Not Do: B.J. Foggs Behavior Model
+### Do or Don't: B.J. Foggs Behavior Model
 ![BJ Fogg's Behavior Model](http://www.behaviormodel.org/index_files/bj-fogg-behavior-model-grapic.jpg)
 <br>_Referenced from: http://www.behaviormodel.org/_
 
@@ -128,8 +128,8 @@ The CREATE Action Funnel is useful to explain actions and behavior in a slightly
 - **Cue**: A cue can be either internal or external. **External cues** can be e.g. text messages, emails or seeing e.g. running shoes. When the mind drifts automatically to the action, then it represents an **internal cue**. For external cues, it's best practice to a) place the product into the user's daily environment, b) to give each time a different cue to avoid being ignored, c) building strong associations with the user's existing routines.
 - **Reaction**: If you ask people to do something, you are addressing their conscious, or slow-thinking mode. But it is the intuitive, fast-thinking mode you gotta pass first. We usually know within milliseconds, whether we want to do something, or not. At this stage, it is best practice to win users **trust** by being **authentic**, displaying **social proof** and displaying **strong authority on the subject**. Make sure, that the *first time user experience* is frictionless, frustration-free and generally positive. 
 - **Ability**: Once the decision has been made to do the action, is it actually **feasible** and realistic? The user must know clearly, what **steps** are required to successfully execute. Furthermore, that user must have the **resources** required for action. Also, the user must have the necessary **skills**. Last but not least, no user will ever do something what's going to fail. The user must be **convinced in the success of the action**.
-- **Timing**: At this stage, the user is aware of the action and has made the decision to do it. But does he really have to do it **now**? Why not postpone/procrastinate it indefinitely..and end up nothing, at all? You gotta create **urgency**. Urgency can be either internal or external. External urgency is e.g. when you know, that you have to put in your taxes (otherwise, the IRS will come to you). Internal urgency can be either stronger like e.g. hunger, thirst; or weaker like e.g. boredom. Users can also be convinced to do something without urgency. Sometimes, a great help is to be **specific**. Consider this example: "You should exercise regularly." vs. "Exercise tomorrow morning at 7 A.M.". The last one feels more real, right? And helps us to remember it, too.
-- **Execution**: Yay! The user passed through all stages of the CREATE action funnel and executed the action.
+- **Timing**: At this stage, the user is aware of the action and has made the decision to do it. But does he really have to do it **now**? Why not postpone/procrastinate it indefinitely..and end up doing nothing, at all? You gotta create **urgency**. Urgency can be either internal or external. External urgency is e.g. when you know, that you have to put in your taxes (otherwise, the IRS will come to you). Internal urgency can be either stronger like e.g. hunger, thirst; or weaker like e.g. boredom. Users can also be convinced to do something without urgency. Sometimes, a great help is to be **specific**. Consider this example: "You should exercise regularly." vs. "Exercise tomorrow morning at 7 A.M.". The last one feels more real, right? And helps us to remember it, too.
+- **Execution**: Yay! The user passed through all stages of the CREATE action funnel and executed the action. But don't become complacent too soon...the user executed it just **once**. It would be cool, if the user would do it repeatedly. And it would be best, if you don't have to ask or remind the user at all, because it has become a deeply embedded habit.
 
 ### Building Habits: Nir Eyal's Hook Model
 ![Nir Eyals Hook Model](http://i.imgur.com/xM2O614.png)
@@ -148,8 +148,21 @@ When actions are repeatedly done, they become a habit. A habit is a hardwired ro
 
 The more Peter goes through the Hook cycle, the firmer his dependence on Instagram becomes. Now, after 2 years of usage, he can't imagine a life without using Instagram. Using Instagram has become a deeply embedded habit.
 
-## Applying Techniques Into a Cohesive UX Vision: Mel Edwards Customer Experience Map
-[TBD]
+## Unifying Everything into a Cohesive UX Vision: Mel Edwards Customer Experience Map
+Let's recall what we've learned so far:
+- Persuasive technology, behavioral economics, digital paternalism and nudges are everywhere. We are constantly hammered by them. You understand, why you e.g. wasted lots of time on social media. **It's not your fault** - it's all thanks to well executed **UX patterns**.
+- Humans aren't always rational. Humans have a **slow**, conscious, deliberate thinking mode; and a **fast**, intuitive thinking mode.
+- You can use that fact to your advantage. You can influence user behavior by using UX patterns aka **nudges**.
+- You learned, how to **decompose and explain** user behavior with frameworks such as **BJ Fogg's Behavior Model** and **Stephen Wendels CREATE Action Funnel**.
+- You learned, how to effectively build habits with **Nir Eyal's Hook Model**.
+
+Now, it is time to package everything into a **cohesive vision** of how your product should enrich the user's life. For that task, the **customer experience map** by Mel Edwards is excellent. It explains all stages of customer engagement on an intuitive storyboard.
+
+> "[The Customer Experience Map is] a graphical representation of the service journey of a customer. It shows their perspective from the beginning, middle and end as they engage a service to achieve their goal, showing the range of tangible and quantitative interactions, triggers and touchpoints, as well as the intangible and qualitative motivations, frustrations and meanings." -[Mel Edwards](https://desonance.wordpress.com/2010/06/16/customer-experience-mapping/)
+
+[TBD: UX Map Image]
+
+[Click here to download the PDF version](https://desonance.files.wordpress.com/2012/07/cxexample_highres_desonance.pdf)
 
 ### Recommended Readings
 - **Wendel, Stephen (2013)**: _"Designing for Behavior Change: Applying Psychology and Behavioral Economics"_, O'Reilly Media, USA 
