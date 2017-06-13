@@ -100,7 +100,7 @@ The figure below shows the Spectrum of Thinking Interventions by Stephen Wendel.
 
 By repeating actions, e.g. ```heuristics``` move further to the left and become ```habits```.
 
-### Do or Don't: B.J. Foggs Behavior Model
+### Do or Don't: The Behavior Model
 ![BJ Fogg's Behavior Model](http://www.behaviormodel.org/index_files/bj-fogg-behavior-model-grapic.jpg)
 <br>_Referenced from: http://www.behaviormodel.org/_
 
@@ -118,7 +118,7 @@ One real-life example: Apple Watch Purchase
 - Existent triggers: A few weeks ago, I saw the Apple Watch advertisement (**spark**). I've got a friend, who's also a runner and highly enthusiastic about the tracking/analytics feature (**facilitator**). This morning, I saw a runner in the park with an Apple Watch (**signal**).
 - Resulting behavior: I go to the Apple Store. After checking out it's features and overall user experience, I make the decision to buy the Apple Watch sports model. 
 
-### Understanding the Decision Making Process: Stephen Wendel's CREATE Action Funnel
+### Understanding the Decision Making Process: The CREATE Action Funnel
 ![CREATE action funnel](https://www.nirandfar.com/wp-content/uploads/2014/08/Screenshot-2014-08-23-11.51.05.png)
 
 *Referenced from [https://www.nirandfar.com/wp-content/uploads/2014/08/Screenshot-2014-08-23-11.51.05.png](https://www.nirandfar.com/wp-content/uploads/2014/08/Screenshot-2014-08-23-11.51.05.png)*
@@ -129,9 +129,9 @@ The CREATE Action Funnel is useful to explain actions and behavior in a slightly
 - **Reaction**: If you ask people to do something, you are addressing their conscious, or slow-thinking mode. But it is the intuitive, fast-thinking mode you gotta pass first. We usually know within milliseconds, whether we want to do something, or not. At this stage, it is best practice to win users **trust** by being **authentic**, displaying **social proof** and displaying **strong authority on the subject**. Make sure, that the *first time user experience* is frictionless, frustration-free and generally positive. 
 - **Ability**: Once the decision has been made to do the action, is it actually **feasible** and realistic? The user must know clearly, what **steps** are required to successfully execute. Furthermore, that user must have the **resources** required for action. Also, the user must have the necessary **skills**. Last but not least, no user will ever do something what's going to fail. The user must be **convinced in the success of the action**.
 - **Timing**: At this stage, the user is aware of the action and has made the decision to do it. But does he really have to do it **now**? Why not postpone/procrastinate it indefinitely..and end up doing nothing, at all? You gotta create **urgency**. Urgency can be either internal or external. External urgency is e.g. when you know, that you have to put in your taxes (otherwise, the IRS will come to you). Internal urgency can be either stronger like e.g. hunger, thirst; or weaker like e.g. boredom. Users can also be convinced to do something without urgency. Sometimes, a great help is to be **specific**. Consider this example: "You should exercise regularly." vs. "Exercise tomorrow morning at 7 A.M.". The last one feels more real, right? And helps us to remember it, too.
-- **Execution**: Yay! The user passed through all stages of the CREATE action funnel and executed the action. But don't become complacent too soon...the user executed it just **once**. It would be cool, if the user would do it repeatedly. And it would be best, if you don't have to ask or remind the user at all, because it has become a deeply embedded habit.
+- **Execution**: Yay! The user passed through all stages of the CREATE action funnel and executed the action. But don't become complacent too soon...the user executed it just **once**. It would be cool, if the user would do it repeatedly. And it would be best, if you don't have to ask or remind the user at all, because it has become a deeply embedded habit. If you want to understand, how to build long-lasting habits, then read on in the next section.
 
-### Building Habits: Nir Eyal's Hook Model
+### Building Habits: The Hook Model
 ![Nir Eyals Hook Model](http://i.imgur.com/xM2O614.png)
 
 When actions are repeatedly done, they become a habit. A habit is a hardwired routine, which costs very little mental resources, is easy to do and very hard to unlearn. Nir Eyal's Hook model explains perfectly, how habits can be formed. Let's come back to our Instagram example:
@@ -148,7 +148,7 @@ When actions are repeatedly done, they become a habit. A habit is a hardwired ro
 
 The more Peter goes through the Hook cycle, the firmer his dependence on Instagram becomes. Now, after 2 years of usage, he can't imagine a life without using Instagram. Using Instagram has become a deeply embedded habit.
 
-## Unifying Everything into a Cohesive UX Vision: Mel Edwards Customer Experience Map
+## Unifying Everything Into a Cohesive UX Vision: The Customer Experience Map
 Let's recall what we've learned so far:
 - Persuasive technology, behavioral economics, digital paternalism and nudges are everywhere. We are constantly hammered by them. You understand, why you e.g. wasted lots of time on social media. **It's not your fault** - it's all thanks to well executed **UX patterns**.
 - Humans aren't always rational. Humans have a **slow**, conscious, deliberate thinking mode; and a **fast**, intuitive thinking mode.
@@ -156,13 +156,13 @@ Let's recall what we've learned so far:
 - You learned, how to **decompose and explain** user behavior with frameworks such as **BJ Fogg's Behavior Model** and **Stephen Wendels CREATE Action Funnel**.
 - You learned, how to effectively build habits with **Nir Eyal's Hook Model**.
 
-Now, it is time to package everything into a **cohesive vision** of how your product should enrich the user's life. For that task, the **customer experience map** by Mel Edwards is excellent. It explains all stages of customer engagement on an intuitive storyboard.
+Now, it is time to package everything into a **cohesive vision** of how your product should enrich the user's life. For that task, the **customer experience map** by Mel Edwards is excellent. It explains all stages of customer engagement on an intuitive storyboard:
 
 > "[The Customer Experience Map is] a graphical representation of the service journey of a customer. It shows their perspective from the beginning, middle and end as they engage a service to achieve their goal, showing the range of tangible and quantitative interactions, triggers and touchpoints, as well as the intangible and qualitative motivations, frustrations and meanings." -[Mel Edwards](https://desonance.wordpress.com/2010/06/16/customer-experience-mapping/)
 
-[TBD: UX Map Image]
+![Mel Edwards Customer Experience Map](https://github.com/togiberlin/ui-ux-designer-roadmap/raw/master/images/customer_experience_map.png)
 
-[Click here to download the PDF version](https://desonance.files.wordpress.com/2012/07/cxexample_highres_desonance.pdf)
+[Click here to download the high definition PDF version](https://desonance.files.wordpress.com/2012/07/cxexample_highres_desonance.pdf)
 
 ### Recommended Readings
 - **Wendel, Stephen (2013)**: _"Designing for Behavior Change: Applying Psychology and Behavioral Economics"_, O'Reilly Media, USA 
