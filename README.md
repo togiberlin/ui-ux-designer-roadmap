@@ -23,6 +23,8 @@ Here, you see the common characteristics which both UI and UX people are expecte
 
 ![Intro Roadmap](http://i.imgur.com/1mddZ84.png)
 
+Before designing anything, it is fundamental to understand the underlying business model. What pain do you want to solve for your customer? For that, I recommend using the [Business Model Canvas](http://s3.amazonaws.com/academia.edu.documents/32253198/businessmodelgenerationpreview.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1497631663&Signature=Is7e1dMbArrSpo%2FOJnACX3dtzEk%3D&response-content-disposition=inline%3B%20filename%3DYoure_holding_a_handbook_for_visionaries.pdf) framework. The template can be downloaded from [here](https://canvanizer.com/downloads/business_model_canvas_poster.pdf).
+
 ## 🎨 User Interface Designer Roadmap
 The tools of the trade for UI design are mainly [Sketch](https://www.sketchapp.com/), [Adobe XD](http://www.adobe.com/de/products/experience-design.html), [Adobe Photoshop](http://www.adobe.com/de/products/photoshop.html) and [Adobe Illustrator](http://www.adobe.com/de/products/illustrator.html). Some UI designers also code HTML and CSS at work, so I've included it too.
 
@@ -46,7 +48,17 @@ With these examples, it should be clear that UX is a critical part of app succes
 To augment above mentioned UX buzzwords, scroll down to the next chapter to see practical, real-life examples on successful UX.
 
 ## UX Pattern Examples: Effectively Applying Nudge Theory
-Modern apps make heavy usage of **nudges**. A nudge is a soft intervention for gently pushing a user into a specific action or behavior - without any coercion or force. Nudge theory has been applied with success for influencing e.g. government policy. For example, the British government employs [a dedicated nudge unit](http://www.behaviouralinsights.co.uk/) to gently push unsuspecting citizens into specific decisions. Nudges are also used in web and mobile apps. Nudges shouldn't trick users into behaviors which they do not want. Ideally, nudges are used to help users achieve something which they already want to do. For example, [FitBit](https://www.fitbit.com/de/home) helps users to achieve their fitness goals. Another example is [Habitica](https://habitica.com/static/front), which helps you to learn positive habits and unlearn negative habits in form of a gamified role play game. This kind of **digital paternalism** is becoming more popular and can transform users into the best versions of themselves. Below are some positive as well as sneaky examples of nudges:
+Modern apps make heavy usage of **nudges**. A nudge is a soft intervention for gently pushing a user into a specific action or behavior - without any coercion or force. Nudge theory has been applied with success for influencing e.g. government policy. For example, the British government employs [a dedicated nudge unit](http://www.behaviouralinsights.co.uk/) to gently push unsuspecting citizens into specific decisions. Nudges are also used in web and mobile apps. Nudges shouldn't trick users into behaviors which they do not want. Ideally, nudges are used to help users achieve something which they already want to do. For example, [FitBit](https://www.fitbit.com/de/home) helps users to achieve their fitness goals. Another example is [Habitica](https://habitica.com/static/front), which helps you to learn positive habits and unlearn negative habits in form of a gamified role play game. **Digital paternalism** is becoming more popular and can transform users into the best versions of themselves.
+
+```diff
++ Note:
++ Distraction, short attention spans, poor concentration and smartphone addiction has become a global epidemy.
++ Not only does it kill your productivity, but research shows that e.g. excessive social media makes unhappy.
++ After reading those UX patterns, you'll not only be able to apply them, but also understand your own behavior.
++ For the future, I intend to create a different repository with effective countermeasures to regain productivity.
+```
+
+Without further ado, below are some positive as well as sneaky examples of nudges. 
 
 > Annie installed the new fitness app on her phone and has been working out for a few weeks. It has worked well, because the main dashboard shows a calendar with her active days marked in orange. She is encouraged to keep a streak. If she misses a day, the streak is lost. Annie has worked out for 2 weeks straight and has never missed a day.
 
@@ -108,7 +120,7 @@ By repeating actions, e.g. ```heuristics``` move further to the left and become 
 Video-on-demand providers use series-addiction to their advantage. Why? Humans are social beings. When we hear well narrated stories, we automatically [get attached to the series](https://www.buzzfeed.com/rachelhorner/the-27-stages-of-getting-addicted-to-a-television-show). I call this UX pattern the **Empathy** pattern. We develop affection and sympathy for fictional characters. And because we want to know what will happen to our favorite characters, we have to watch it until the bitter end. Netflix is aware of this dark UX pattern and exploits it to the max - they keep feeding consumers with countless episodes, seasons and series. Netflix just revealed, that they spent [5 BILLION US$](http://www.cinemablend.com/television/Insane-Amount-Money-Netflix-Spend-Content-2016-112117.html) on creating content. That's roughly 80% of their revenues. It apparently pays off: as of 2017, Netflix has nearly [100 million](http://money.cnn.com/2017/04/17/technology/netflix-subscribers/index.html) paying subscribers.
 
 Coming back to our Spectrum of Thinking Interventions graphic: not only can you move from right to left, but also left to right.
-> Example: I want to get a haircut. I open Google Maps and start a search. There is a barber nearby. After a short walk, I want to enter the barber shop. I open the door. I habitually pull - it doesn't open. When this happens, my habit is to reverse my action and push instead. Doesn't open, too. Now, I intuively check for any signs - is there any open/close shield? No. Is there anyone inside? No. Weird. I open the phone and check the opening hours and alternatives. I evaluate the alternatives in terms of prices, location, distance, and . After a long, conscious cost-benefit evaluation, I make the decision to enter my car and drive 3 miles to the next barber shop.
+> Example: I want to get a haircut. I open Google Maps and start a search. There is a barber nearby. After a short walk, I want to enter the barber shop. I open the door. I habitually pull - it doesn't open. When this happens, my habit is to reverse my action and push instead. Doesn't open, too. Now, I intuively check for any signs - is there any open/close shield? No. Is there anyone inside? No. Weird. I open the phone and check the opening hours and alternatives. I evaluate the alternatives in terms of prices, location, distance, and reputation. After a long, conscious cost-benefit evaluation, I make the decision to enter my car and drive 3 miles to the next barber shop.
 
 ### Do or Don't: The Behavior Model
 ![BJ Fogg's Behavior Model](http://www.behaviormodel.org/index_files/bj-fogg-behavior-model-grapic.jpg)
@@ -163,7 +175,7 @@ The more Peter goes through the Hook cycle, the firmer his dependence on Instagr
 Let's recall what we've learned so far:
 - Persuasive technology, behavioral economics, digital paternalism and nudges are everywhere. We are constantly hammered by them. You understand, why you e.g. wasted lots of time on social media. **It's not your fault** - it's all thanks to well executed **UX patterns**.
 - Humans aren't always rational. Humans have a **slow**, conscious, deliberate thinking mode; and a **fast**, intuitive thinking mode.
-- You can use that fact to your advantage. You can influence user behavior by using UX patterns aka **nudges**. You learned a dozen standard nudges, which you can directly integrate into your app.
+- You can use that fact to your advantage. You can influence user behavior by using UX patterns aka **nudges**. You learned a dozen standard nudges, which can be directly integrated into your app.
 - You learned, how to **decompose and explain** user behavior with frameworks such as **BJ Fogg's Behavior Model** and **Stephen Wendels CREATE Action Funnel**.
 - You learned, how to effectively build habits with **Nir Eyal's Hook Model**.
 
@@ -176,6 +188,8 @@ Below, you see an example of a customer experience map for a government service 
 ![Mel Edwards Customer Experience Map](https://github.com/togiberlin/ui-ux-designer-roadmap/raw/master/images/customer_experience_map.png)
 
 *Referenced from [https://desonance.files.wordpress.com/2012/07/cxexample_highres_desonance.pdf](https://desonance.files.wordpress.com/2012/07/cxexample_highres_desonance.pdf)*
+
+Now, it's your turn to draft a great, cohesive User Experience Map:
 
 - If you want to create a UX map on your computer, [click here for a ready-to-use Word template](https://github.com/togiberlin/ui-ux-designer-roadmap/raw/master/resources/ux_map.docx)
 - If you want to create a UX map in a live brainstorming session, [click here for a printer-friendly PDF template](https://github.com/togiberlin/ui-ux-designer-roadmap/raw/master/resources/ux_map.pdf)
@@ -197,6 +211,7 @@ If you think any of the roadmaps can be improved, please do open a PR with any u
 - [x] Added UI Roadmap
 - [x] Added UX Roadmap
 - [x] Added relevant resources
+- [ ] Added table of contents
 
 ## 👬 Contribution
 
