@@ -7,7 +7,11 @@ Below, you'll find a roadmap on how to become a UI/UX designer. It lists all com
 If you have any improvements, don't hesitate to post an [issue](https://github.com/togiberlin/designer-roadmap/issues) or make a [pull request](https://github.com/togiberlin/designer-roadmap/pulls) 🙃
 
 ## 🚀 Introduction
-Creating a successful tech startup depends on many factors. Having an aesthetic ```user interface (UI)``` and a great ```user experience (UX)``` are integral parts of entrepreneurial success. These interesting fields are quite young disciplines and require knowledge in different areas. When starting a small business, hiring lots of specialists with a limited budget is not realistic. Usually, the first iteration of a great Minimum Viable Product (MVP) is done by **hybrids**. This guide is meant to help you creating a great MVP and get at least 80% of the design/psychology right on the first try - **the lean way**.
+Creating a successful tech startup depends on many factors. Having an aesthetic ```user interface (UI)``` and a great ```user experience (UX)``` are integral parts of entrepreneurial success. These interesting fields are quite young disciplines and require knowledge in different areas. When starting a small business, hiring lots of dedicated specialists with a limited budget is not realistic. Usually, the first iteration of a great Minimum Viable Product (MVP) is done by **hybrids**. This guide is meant to help you creating a great MVP and get at least 80% of the design/psychology right on the first try - **the lean way**.
+
+![The Lean Method of Building Startups by Eric Ries](https://cdn-images-1.medium.com/max/800/1*NmN8fTliAkgy1xpt9lLn7g.png)
+
+*Referenced from [https://cdn-images-1.medium.com/max/800/1*NmN8fTliAkgy1xpt9lLn7g.png](https://cdn-images-1.medium.com/max/800/1*NmN8fTliAkgy1xpt9lLn7g.png)*
 
 ## Distinguishing Between UI and UX
 Often times, people use the terms ```UI``` and ```UX``` interchangeably. Despite some shared elements, there are notable differences. Here is a simple definition:
@@ -125,10 +129,11 @@ One real-life example: Apple Watch Purchase
 
 The CREATE Action Funnel is useful to explain actions and behavior in a slightly finer granularity than e.g. BJ Fogg's Behavior Model. The CREATE Action Funnel consists of the following elements:
 
-- **Cue**: A cue can be either internal or external. **External cues** can be e.g. text messages, emails or seeing e.g. running shoes. When the mind drifts automatically to the action, then it represents an **internal cue**. For external cues, it's best practice to a) place the product into the user's daily environment, b) to give each time a different cue to avoid being ignored, c) building strong associations with the user's existing routines.
-- **Reaction**: If you ask people to do something, you are addressing their conscious, or slow-thinking mode. But it is the intuitive, fast-thinking mode you gotta pass first. We usually know within milliseconds, whether we want to do something, or not. At this stage, it is best practice to win users **trust** by being **authentic**, displaying **social proof** and displaying **strong authority on the subject**. Make sure, that the *first time user experience* is frictionless, frustration-free and generally positive. 
-- **Ability**: Once the decision has been made to do the action, is it actually **feasible** and realistic? The user must know clearly, what **steps** are required to successfully execute. Furthermore, that user must have the **resources** required for action. Also, the user must have the necessary **skills**. Last but not least, no user will ever do something what's going to fail. The user must be **convinced in the success of the action**.
-- **Timing**: At this stage, the user is aware of the action and has made the decision to do it. But does he really have to do it **now**? Why not postpone/procrastinate it indefinitely..and end up doing nothing, at all? You gotta create **urgency**. Urgency can be either internal or external. External urgency is e.g. when you know, that you have to put in your taxes (otherwise, the IRS will come to you). Internal urgency can be either stronger like e.g. hunger, thirst; or weaker like e.g. boredom. Users can also be convinced to do something without urgency. Sometimes, a great help is to be **specific**. Consider this example: "You should exercise regularly." vs. "Exercise tomorrow morning at 7 A.M.". The last one feels more real, right? And helps us to remember it, too.
+- Triggered **Cue**: A cue can be either internal or external. **External cues** can be e.g. text messages, emails or seeing e.g. running shoes. When the mind drifts automatically to the action, then it represents an **internal cue**. For external cues, it's best practice to a) place the product into the user's daily environment, b) to give each time a different cue to avoid being ignored, c) building strong associations with the user's existing routines.
+- Intuitive **Reaction**: If you ask people to do something, you are addressing their conscious, or slow-thinking mode. But it is the intuitive, fast-thinking mode you gotta pass first. We usually know within milliseconds, whether we want to do something, or not. At this stage, it is best practice to win users **trust** by being **authentic**, displaying **social proof** and displaying **strong authority on the subject**. Make sure, that the *first time user experience* is frictionless, frustration-free and generally positive. The first impression will dictate a large portion of **customer-lifetime-value**.
+- Conscious **Evaluation**: After you obtained the user's attention, and the initial reaction wasn't negative the user will now evaluate the costs and benefits. What you want to deliver at this stage are short and concise arguments, which educate the user about the benefits of the products and downplay the perceived costs of taking action. It is best practice to **highlight the benefits**, **minimize the costs** and **downplay the alternatives**. Consider this short example: _"Take the bike to work. It will keep you fit, make you lose weight and lengthen your life. Because you aren't constrained to roads, you can find the optimal, shortest route and save time. Compared to cars, you will avoid long traffic jams and high purchasing, insurance, maintenance, fuel and depreciation costs."_
+- **Ability** check: Once the decision has been made to do the action, is it actually **feasible** and realistic? The user must know clearly, what **steps** are required to successfully execute. Furthermore, that user must have the **resources** required for action. Also, the user must have the necessary **skills**. Last but not least, no user will ever do something what's going to fail. The user must be **convinced in the success of the action**.
+- **Timing** check: At this stage, the user is aware of the action and has made the decision to do it. But does he really have to do it **now**? Why not postpone/procrastinate it indefinitely..and end up doing nothing, at all? You gotta create **urgency**. Urgency can be either internal or external. External urgency is e.g. when you know, that you have to put in your taxes (otherwise, the IRS will come to you). Internal urgency can be either stronger like e.g. hunger, thirst; or weaker like e.g. boredom. Users can also be convinced to do something without urgency. Sometimes, a great help is to be **specific**. Consider this example: "You should exercise regularly." vs. "Exercise tomorrow morning at 7 A.M.". The last one feels more real, right? And helps us to remember it, too.
 - **Execution**: Yay! The user passed through all stages of the CREATE action funnel and executed the action. But don't become complacent too soon...the user executed it just **once**. It would be cool, if the user would do it repeatedly. And it would be best, if you don't have to ask or remind the user at all, because it has become a deeply embedded habit. If you want to understand, how to build long-lasting habits, then read on in the next section.
 
 ### Building Habits: The Hook Model
@@ -138,7 +143,7 @@ When actions are repeatedly done, they become a habit. A habit is a hardwired ro
 
 - **External Triggers**: Instagram notifies Peter, when his friends start e.g. a live feed. Also, whenever someone drops a comment on Peters photos, Instagram sends immediate **push notifications**.
 
-- **Internal Triggers**: Peters constant usage of Instagram is hardwired into his brain. Whenever he felt bored, he automatically opened his Instagram to relieve his boredom. In his mind, getting rid of boredom is now **associated** with Instagram.
+- **Internal Triggers**: Peters constant usage of Instagram is hardwired into his brain. Whenever he felt bored, he automatically opened his Instagram to relieve his boredom. In his mind the "getting rid of boredom" routine is now directly **associated** with Instagram.
 
 - **Ability**: Peter feels proud, because he has 22k followers. It means, that his content, personality and hobbies are worthy of attention. It makes him proud and motivates him to use Instagram on a daily basis, because he craves **social acceptance**. The famous watch manufacturer Daniel Wellington became aware of Peter's status and offered him a lucrative deal: he advertises DW watches, and get's a percentage of the purchase. Instagram offers Peter a great opportunity to get **money**. This motivation keeps Peter for at least an hour occupied on Instagram, every day.
 
@@ -160,14 +165,22 @@ Now, it is time to package everything into a **cohesive vision** of how your pro
 
 > "[The Customer Experience Map is] a graphical representation of the service journey of a customer. It shows their perspective from the beginning, middle and end as they engage a service to achieve their goal, showing the range of tangible and quantitative interactions, triggers and touchpoints, as well as the intangible and qualitative motivations, frustrations and meanings." -[Mel Edwards](https://desonance.wordpress.com/2010/06/16/customer-experience-mapping/)
 
+Below, you see an example of a customer experience map for a government service - getting a proof-of-age ID card. Don't be overwhelmed, we'll go through each section one by one.
+
 ![Mel Edwards Customer Experience Map](https://github.com/togiberlin/ui-ux-designer-roadmap/raw/master/images/customer_experience_map.png)
 
-[Click here to download the high definition PDF version](https://desonance.files.wordpress.com/2012/07/cxexample_highres_desonance.pdf)
+*Referenced from [https://desonance.files.wordpress.com/2012/07/cxexample_highres_desonance.pdf](https://desonance.files.wordpress.com/2012/07/cxexample_highres_desonance.pdf)*
+
+- If you want to create a UX map on your computer, [click here for a ready-to-use Word template](https://github.com/togiberlin/ui-ux-designer-roadmap/raw/master/resources/ux_map.docx)
+- If you want to create a UX map in a live brainstorming session, [click here for a printer-friendly PDF template](https://github.com/togiberlin/ui-ux-designer-roadmap/raw/master/resources/ux_map.pdf)
 
 ### Recommended Readings
-- **Wendel, Stephen (2013)**: _"Designing for Behavior Change: Applying Psychology and Behavioral Economics"_, O'Reilly Media, USA 
-- **Eyal, Nir (2014)**: _"Hooked: How to Build Habit-Forming Products"_, Penguin Books, UK
-- **Sunstein, Cass; Thaler, Richard (2009)**; _"Nudge: Improving Decisions About Health, Wealth and Happiness"_, Penguin Books, UK
+This guide explained in **20%** of time **80%** of all concepts. However if you want to dig deeper, I highly recommend reading the following books. You can find them on e.g. Amazon:
+
+- [**Wendel, Stephen (2013)**: _"Designing for Behavior Change: Applying Psychology and Behavioral Economics"_, O'Reilly Media, USA](http://amzn.to/2s8IVsX) 
+- [**Eyal, Nir (2014)**: _"Hooked: How to Build Habit-Forming Products"_, Penguin Books, UK](http://amzn.to/2sAdDfV)
+- [**Nodder, Chris (2013)**: _"Evil by Design: Interaction Design to Lead Us into Temptation"_, John Wiley & Sons, USA](http://amzn.to/2s90Qjl)
+- [**Sunstein, Cass; Thaler, Richard (2009)**; _"Nudge: Improving Decisions About Health, Wealth and Happiness"_, Penguin Books, UK](http://amzn.to/2sxhCco)
 
 ## 🚦 Wrap Up
 
