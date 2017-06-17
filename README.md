@@ -30,6 +30,29 @@ The tools of the trade for UI design are mainly [Sketch](https://www.sketchapp.c
 
 ![UI Designer Roadmap](http://i.imgur.com/nGgB1ZF.png)
 
+### Use Symmetry for Great UI Designs
+Creating great UI designs can be hard, especially when you design for the first time. You design stuff but it always seems to lack that special _something_ compared to other, more "professional" designs. But you have no idea where to look for or what to improve. There is one guiding principle, which once understood, delivers **results immediately**. This guiding principle is **symmetry**. The rule is very simple: all objects must match each other in distance, size and thickness. Use this principle, whenever you can.
+
+Consider this example: You compare 3 weather apps. 
+
+Random Weather App (Android)     | Yahoo! Weather App (iOS and Android)  | Apple Weather App (iOS only)  |
+|:------------------------------:|:------------------------------:|:-------------------------------:|
+
+![Weather app example](http://i.imgur.com/N9cCHCV.jpg)
+
+> Intuitive evaluation: Random one (left) doesn't look nice. Yahoo Weather (middle) looks pretty okay. But it is Apple Weather (right) which looks best. Something is wrong with the random one (left) and Yahoo Weather (middle) - but what exactly?
+
+Criterion | Random Weather App (Left)  | Yahoo! Weather App (Middle)       | Apple Weather App (Right)      |
+| --------- | -------------------- | -------------------- | -------------------- |
+Left-right symmetry | 🚫 No left-right symmetry. Not centered at all. | ⚠️ Top part left-aligned, overall not 100% symmetrical. Most items are centered. | ✅ Full left-right symmetry, fully centered. |
+Font color | 🚫 5 different font colors. Font colors don't match. | ✅ 3 font colors. Font colors match. | ✅ 1 font color in 2 different opacities. Font colors match. |
+Font size | 🚫 Approx. 7 different font sizes. | ⚠️ Approx. 6 different font sizes. | ✅ Approx. 4 different font sizes. |
+Font weight | 🚫 2 different font weights. Bold/regular fonts mixed. | ✅ All fonts are in regular style. However, Flickr icon font doesn't match, but this is very minor. | ✅ All fonts are in regular style. |
+Symbols | 🚫 Symbols don't match is size and style. E.g. Some clouds are larger/smaller; some have outlines, some not. | ✅ Symbols match. | ✅ Symbols match. |
+Button count | 🚫 Too many buttons, too many choices. | ✅ Very few buttons. Usage through swiping. | ✅ Very few buttons. Usage through swiping. |
+Button style | 🚫 Button sizes don't match. Some are long, some short. | ⚠️ Thickness of navigation drawer menu and plus button doesn't match with other symbols. | ✅ Only one visible button in bottom right corner. Button style and line-thickness of symbol does match with overall UI. |
+Layout | 🚫 Distance between objects varies. Not aligned to an evenly spaced grid. | ⚠️ Not 100% evenly spaced. E.g. Flickr icon too close to the rim compared to the plus icon. Bottom-right icon doesn't have an equivalent on bottom-left corner. | ✅ Evenly spaced. |
+
 ## 🔮 User Experience Researcher Roadmap
 The main focus of ```UX``` is to get the __psychology__ right. According to [Business Insider](http://www.businessinsider.de/average-number-of-apps-vs-time-spent-2016-5?r=US&IR=T), the average U.S. citizen spends around 40 minutes daily on a smartphone. On average, 27 apps (!) are competing for these 40 minutes. In a world full of distractions, attention has become the most precious resource. **Mental resources** are limited and highly contested. At the same time, app stores are [incredibly crowded](http://www.businessinsider.com/top-app-store-marketing-tips-2-2014-2?IR=T), and it keeps getting worse. [Research](http://andrewchen.co/new-data-shows-why-losing-80-of-your-mobile-users-is-normal-and-that-the-best-apps-do-much-better/) found out, that on average 80% of users delete apps within the first 3 days. With these abnormally high __churn rates__, delivering the standard "good usability" line is simply not enough. For the competitive edge, apps need to be addictive. This can be achieved by psychology and state-of-the-art **UX patterns**. E.g. according to the [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-2785744/Facebook-Instagram-favourite-social-network-teens.html), Instagram overtook Facebook in popularity - because the founders of Instagram got the psychology right.
 
@@ -39,7 +62,7 @@ Instagram achieved this success by reducing the clutter and feature bloat of Fac
 
 > It was a regular Monday evening in Chicago. David H. was bored. To relieve his boredom, David H. opened his Instagram to check the news feed. He saw his friend Jason F. surfing in Hawaii. After commenting, he continued to check the news feed. Without noticing, he spent 30 minutes on Instagram.
 
-Instagram has a sneaky UX pattern called **Autoplay**. If you do nothing, Instagram keeps loading new content. The path of least resistance - doing nothing - leads to using Instagram more, not less. With time, using Instagram becomes a subconscious, deeply embedded **habit**. And building habits is what you ultimately want, because they are so hard to unlearn.
+Instagram has a sneaky UX pattern called **Autoplay**. If you do nothing, Instagram keeps loading new content. The path of least resistance - doing nothing - leads to using Instagram more, not less. This UX pattern is combined with the **infinite scroll** pattern. Whenever the user has had enough of watching a picture, he is just one downward swipe away from the next terribly interesting image. With time, using Instagram becomes a subconscious, deeply embedded **habit**. And building habits is what you ultimately want, because they are so hard to unlearn.
 
 With these examples, it should be clear that UX is a critical part of app success and user retention. Without further ado, here now the UX roadmap:
 
@@ -48,17 +71,11 @@ With these examples, it should be clear that UX is a critical part of app succes
 To augment above mentioned UX buzzwords, scroll down to the next chapter to see practical, real-life examples on successful UX.
 
 ## UX Pattern Examples: Effectively Applying Nudge Theory
-Modern apps make heavy usage of **nudges**. A nudge is a soft intervention for gently pushing a user into a specific action or behavior - without any coercion or force. Nudge theory has been applied with success for influencing e.g. government policy. For example, the British government employs [a dedicated nudge unit](http://www.behaviouralinsights.co.uk/) to gently push unsuspecting citizens into specific decisions. Nudges are also used in web and mobile apps. Nudges shouldn't trick users into behaviors which they do not want. Ideally, nudges are used to help users achieve something which they already want to do. For example, [FitBit](https://www.fitbit.com/de/home) helps users to achieve their fitness goals. Another example is [Habitica](https://habitica.com/static/front), which helps you to learn positive habits and unlearn negative habits in form of a gamified role play game. **Digital paternalism** is becoming more popular and can transform users into the best versions of themselves.
+Modern apps make heavy usage of **nudges**. A nudge is a soft intervention for gently pushing a user into a specific action or behavior - without any coercion or force. Nudge theory has been applied with success for influencing e.g. government policy. For example, the British government employs [a dedicated nudge unit](http://www.behaviouralinsights.co.uk/) to gently push unsuspecting citizens into specific decisions. Nudges are also used in web and mobile apps. Nudges shouldn't trick users into behaviors which they do not want. Ideally, nudges are used to help users achieve something which they already want to do. For example, [FitBit](https://www.fitbit.com/de/home) helps users to achieve their fitness goals. Another example is [Habitica](https://habitica.com/static/front), which helps you to learn positive habits and unlearn negative habits in form of a gamified role play game. **Digital paternalism** is becoming more popular and can transform users into the best versions of themselves. Without further ado, below are some positive as well as sneaky examples of nudges. 
 
-```diff
-+ Note:
-+ Distraction, short attention spans, poor concentration and smartphone addiction has become a global epidemy.
-+ Not only does it kill your productivity, but research shows that e.g. excessive social media makes unhappy.
-+ After reading those UX patterns, you'll not only be able to apply them, but also understand your own behavior.
-+ For the future, I intend to create a different repository with effective countermeasures to regain productivity.
-```
+> Everest.co is a small web and mobile app agency located in San Francisco. They've decided to create a blog to share their knowledge in weekly blogposts. They blog about programming, technology, marketing and great design. Many readers do bookmark, share and comment on the page via DisQus.
 
-Without further ado, below are some positive as well as sneaky examples of nudges. 
+This UX pattern is taking advantage of the fact that many people are searching for solutions to e.g. programming problems on the internet. And when Everest.co provides the solution with strong authority and expertise on the subject, it is logical to just hire the agency instead of learning and doing it yourself. Core idea of having a blog with educational material is to **outteach instead of outspend** your competition. Even if the reader won't purchase your services or products now, he might recommend it to someone or come back later when he needs it. With consistent top-notch quality content, companies can build a loyal audience. The web 2.0 gives companies the power to pursue a low-cost marketing strategy.
 
 > Annie installed the new fitness app on her phone and has been working out for a few weeks. It has worked well, because the main dashboard shows a calendar with her active days marked in orange. She is encouraged to keep a streak. If she misses a day, the streak is lost. Annie has worked out for 2 weeks straight and has never missed a day.
 
@@ -102,6 +119,10 @@ This UX pattern is called **loss aversion**. Humans hate to lose something, whic
 
 This UX pattern is called **anchoring**. If people have little clue of market prices, give them a number to influence the outcome in your favor. Subconsciously, they will orient themselves on your mentioned price.
 
+***
+
+One **warning**: despite tough app store competition, use UX patterns in moderation. Don't [overuse UX patterns](https://m.signalvnoise.com/exponential-growth-devours-and-corrupts-c5562fbf131). If your app is loaded with too many [dark patterns](https://darkpatterns.org/types-of-dark-pattern), it will become obvious and users will notice. You app becomes just another soulless, extractive slot-machine. UX patterns should be used to support user motivation, not user extraction. Every legitimate app should focus first and foremost on the core value proposition: what problem are you solving for the user?
+
 ## Understanding Human Decision Making: Humans Are (Ir)rational
 Above mentioned UX patterns show, that the *homo oeconomicus* doesn't always make decisions based on intellect and reason. Emotions, biases, associations, "gut feeling" and the unreasonable do play a huge role in decision making. Psychologists have classified human thinking modes into a **slow thinking mode** and a **fast thinking mode**, also known as Dual Process Theory.
 
@@ -117,7 +138,7 @@ The figure below shows the Spectrum of Thinking Interventions by Stephen Wendel.
 By repeating actions, e.g. ```heuristics``` move further to the left and become ```habits```.
 > Example: I consciously evaluate the costs and benefits of subscribing to Netflix, Amazon Prime, Apple iTunes Video or Google Play Video. Prices are similar. However, the Netflix offer includes the highest number of available movies. Nice. After long evaluation, I make the decision subscribe to Netflix. Many friends did it too, and didn't regret it. After subscribing to Netflix, I didn't watch any movie for 4 weeks straight. I started to feel a bit guilty: "I should use it, otherwise it's wasted money". I watched some movies, but didn't feel the urge to come back to Netflix on a regular basis. One evening, I started watching Breaking Bad. The first episode wasn't that bad. 3 days later, I decided to watch the second episode. After the 4th or 5th episode, things started to get fancy: that boring high-school professor becomes a drug dealer? I became attached to this series and started to watch it every evening. Now, I'm watching Breaking Bad every evening for 2 weeks straight. I simply had to know, how this story ends.
 
-Video-on-demand providers use series-addiction to their advantage. Why? Humans are social beings. When we hear well narrated stories, we automatically [get attached to the series](https://www.buzzfeed.com/rachelhorner/the-27-stages-of-getting-addicted-to-a-television-show). I call this UX pattern the **Empathy** pattern. We develop affection and sympathy for fictional characters. And because we want to know what will happen to our favorite characters, we have to watch it until the bitter end. Netflix is aware of this dark UX pattern and exploits it to the max - they keep feeding consumers with countless episodes, seasons and series. Netflix just revealed, that they spent [5 BILLION US$](http://www.cinemablend.com/television/Insane-Amount-Money-Netflix-Spend-Content-2016-112117.html) on creating content. That's roughly 80% of their revenues. It apparently pays off: as of 2017, Netflix has nearly [100 million](http://money.cnn.com/2017/04/17/technology/netflix-subscribers/index.html) paying subscribers.
+Video-on-demand providers use series-addiction to their advantage. Why? Humans are social beings. When we hear well narrated stories, we automatically [get attached to the series](https://www.buzzfeed.com/rachelhorner/the-27-stages-of-getting-addicted-to-a-television-show). I call this UX pattern the **Fictional Character Empathy** pattern. We develop affection and sympathy for fictional characters. And because we want to know what will happen to our favorite characters, we have to watch it until the bitter end. Netflix is aware of this dark UX pattern and exploits it to the max - they keep feeding consumers with countless episodes, seasons and series. Netflix just revealed, that they spent [5 BILLION US$](http://www.cinemablend.com/television/Insane-Amount-Money-Netflix-Spend-Content-2016-112117.html) on creating content. That's roughly 80% of their revenues. It apparently pays off: as of 2017, Netflix has nearly [100 million](http://money.cnn.com/2017/04/17/technology/netflix-subscribers/index.html) paying subscribers.
 
 Coming back to our Spectrum of Thinking Interventions graphic: not only can you move from right to left, but also left to right.
 > Example: I want to get a haircut. I open Google Maps and start a search. There is a barber nearby. After a short walk, I want to enter the barber shop. I open the door. I habitually pull - it doesn't open. When this happens, my habit is to reverse my action and push instead. Doesn't open, too. Now, I intuively check for any signs - is there any open/close shield? No. Is there anyone inside? No. Weird. I open the phone and check the opening hours and alternatives. I evaluate the alternatives in terms of prices, location, distance, and reputation. After a long, conscious cost-benefit evaluation, I make the decision to enter my car and drive 3 miles to the next barber shop.
