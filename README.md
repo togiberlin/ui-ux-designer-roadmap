@@ -6,6 +6,27 @@ Below, you'll find a roadmap on how to become a UI/UX designer. It lists all com
 
 If you have any improvements, don't hesitate to post an [issue](https://github.com/togiberlin/designer-roadmap/issues) or make a [pull request](https://github.com/togiberlin/designer-roadmap/pulls) 🙃
 
+## 📖 Table Of Contents
+
+ * [Introduction](#-introduction)
+ * [Distinguishing Between UI and UX](#distinguishing-between-ui-and-ux)
+ * [User Interface Designer Roadmap](#-user-interface-designer-roadmap)
+      * [Use Symmetry for Great UI Designs](#use-symmetry-for-great-ui-designs)
+ * [User Experience Researcher Roadmap](#-user-experience-researcher-roadmap)
+      * [UX Pattern Examples: Effectively Applying Nudge Theory](#ux-pattern-examples-effectively-applying-nudge-theory)
+      * [Understanding Human Decision Making: Humans Are (Ir)rational](#understanding-human-decision-making-humans-are-irrational)
+         * [Thinking Fast &amp; Slow: Dual Process Theory](#thinking-fast--slow-dual-process-theory)
+         * [Do or Don't: The Behavior Model](#do-or-dont-the-behavior-model)
+         * [Understanding the Decision Making Process: The CREATE Action Funnel](#understanding-the-decision-making-process-the-create-action-funnel)
+         * [Building Habits: The Hook Model](#building-habits-the-hook-model)
+      * [Unifying Everything Into a Cohesive UX Vision: The Customer Experience Map](#unifying-everything-into-a-cohesive-ux-vision-the-customer-experience-map)
+         * [Recommended Readings](#recommended-readings)
+ * [Wrap Up](#-wrap-up)
+ * [TODO](#-todo)
+ * [Contribution](#-contribution)
+ * [License](#license)
+
+
 ## 🚀 Introduction
 Creating a successful tech startup depends on many factors. Having an aesthetic ```user interface (UI)``` and a great ```user experience (UX)``` are integral parts of entrepreneurial success. These interesting fields are quite young disciplines and require knowledge in different areas. When starting a small business, hiring lots of dedicated specialists with a limited budget is not realistic. Usually, the first iteration of a great Minimum Viable Product (MVP) is done by **hybrids**. This guide is meant to help you creating a great MVP and get at least 80% of the design/psychology right on the first try - **the lean way**.
 
@@ -232,7 +253,7 @@ If you think any of the roadmaps can be improved, please do open a PR with any u
 - [x] Added UI Roadmap
 - [x] Added UX Roadmap
 - [x] Added relevant resources
-- [ ] Added table of contents
+- [x] Added table of contents
 
 ## 👬 Contribution
 
