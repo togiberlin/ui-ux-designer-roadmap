@@ -66,7 +66,7 @@ and check which colors make contrast with others
 
 
 
-| ---------------------------------------------------- |
+----------------------------------------------------
 
 Consider this example: You compare 3 weather apps. 
 
