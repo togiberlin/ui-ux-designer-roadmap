@@ -1,8 +1,10 @@
-![UI/UX Designer Roadmap](http://i.imgur.com/clLNiOD.png)
+![UI/UX Designer Roadmap 2019](https://i.imgur.com/DYkQ9MB.png)
 
-> Roadmap to becoming a UI/UX Designer in 2017
+> Roadmap to becoming an UI/UX Designer in 2019
 
 Below, you'll find a roadmap on how to become a UI/UX designer. It lists all common tools of the trade in order to become a digital creative. It is inspired by [this roadmap on how to become a web developer](https://github.com/kamranahmedse/developer-roadmap).
+
+this is an updated version of the [Roadmap to becoming an UI/UX Designer 2017](https://github.com/togiberlin/designer-roadmap).
 
 If you have any improvements, don't hesitate to post an [issue](https://github.com/togiberlin/designer-roadmap/issues) or make a [pull request](https://github.com/togiberlin/designer-roadmap/pulls) 🙃
 
@@ -42,17 +44,28 @@ Often times, people use the terms ```UI``` and ```UX``` interchangeably. Despite
 
 Here, you see the common characteristics which both UI and UX people are expected to bring to the table:
 
-![Intro Roadmap](http://i.imgur.com/1mddZ84.png)
+![Intro Roadmap](https://i.imgur.com/zKS89Nh.png)
 
 Before designing anything, it is fundamental to understand the underlying business model. What pain do you want to solve for your customer? For that, I recommend using the [Business Model Canvas](http://s3.amazonaws.com/academia.edu.documents/32253198/businessmodelgenerationpreview.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1497631663&Signature=Is7e1dMbArrSpo%2FOJnACX3dtzEk%3D&response-content-disposition=inline%3B%20filename%3DYoure_holding_a_handbook_for_visionaries.pdf) framework. The template can be downloaded from [here](https://canvanizer.com/downloads/business_model_canvas_poster.pdf).
 
 ## 🎨 User Interface Designer Roadmap
 The tools of the trade for UI design are mainly [Sketch](https://www.sketchapp.com/), [Adobe XD](http://www.adobe.com/de/products/experience-design.html), [Adobe Photoshop](http://www.adobe.com/de/products/photoshop.html) and [Adobe Illustrator](http://www.adobe.com/de/products/illustrator.html). Some UI designers also code HTML and CSS at work, so I've included it too.
 
-![UI Designer Roadmap](http://i.imgur.com/nGgB1ZF.png)
+![UI Designer Roadmap](https://i.imgur.com/gE86pOc.png)
 
 ### Use Symmetry for Great UI Designs
 Creating great UI designs can be hard, especially when you design for the first time. You design stuff but it always seems to lack that special _something_ compared to other, more "professional" designs. But you have no idea where to look for or what to improve. There is one guiding principle, which once understood, delivers **results immediately**. This guiding principle is **symmetry**. The rule is very simple: all objects must match each other in distance, size and thickness. Use this principle, whenever you can.
+
+### Theory of color
+On all designs is important to check the contrast of the color you using
+Try to not use middle colors too much
+Not abusing gradients
+and check which colors make contrast with others
+there are many, many softwares to do it, i recommend adobe kuler
+
+### Use of typography.
+
+
 
 Consider this example: You compare 3 weather apps. 
 
@@ -74,6 +87,9 @@ Button count | 🚫 Too many buttons, too many choices. | ✅ Very few buttons. 
 Button style | 🚫 Button sizes don't match. Some are long, some short. | ⚠️ Thickness of navigation drawer menu and plus button doesn't match with other symbols. | ✅ Only one visible button in bottom right corner. Button style and line-thickness of symbol does match with overall UI. |
 Layout | 🚫 Distance between objects varies. Not aligned to an evenly spaced grid. | ⚠️ Not 100% evenly spaced. E.g. Flickr icon too close to the rim compared to the plus icon. Bottom-right icon doesn't have an equivalent on bottom-left corner. | ✅ Evenly spaced. |
 
+
+!You can also check a list of rules to your designs at [Laws of UX](lawsofux.com)
+
 ## 🔮 User Experience Researcher Roadmap
 The main focus of ```UX``` is to get the __psychology__ right. According to [Business Insider](http://www.businessinsider.de/average-number-of-apps-vs-time-spent-2016-5?r=US&IR=T), the average U.S. citizen spends around 40 minutes daily on a smartphone. On average, 27 apps (!) are competing for these 40 minutes. In a world full of distractions, attention has become the most precious resource. **Mental resources** are limited and highly contested. At the same time, app stores are [incredibly crowded](http://www.businessinsider.com/top-app-store-marketing-tips-2-2014-2?IR=T), and it keeps getting worse. [Research](http://andrewchen.co/new-data-shows-why-losing-80-of-your-mobile-users-is-normal-and-that-the-best-apps-do-much-better/) found out, that on average 80% of users delete apps within the first 3 days. With these abnormally high __churn rates__, delivering the standard "good usability" line is simply not enough. For the competitive edge, apps need to be addictive. This can be achieved by psychology and state-of-the-art **UX patterns**. E.g. according to the [Daily Mail](http://www.dailymail.co.uk/sciencetech/article-2785744/Facebook-Instagram-favourite-social-network-teens.html), Instagram overtook Facebook in popularity - because the founders of Instagram got the psychology right.
 
@@ -87,7 +103,7 @@ Instagram has a sneaky UX pattern called **Autoplay**. If you do nothing, Instag
 
 With these examples, it should be clear that UX is a critical part of app success and user retention. Without further ado, here now the UX roadmap:
 
-![UX Researcher Roadmap](http://i.imgur.com/duKBzNL.png)
+![UX Researcher Roadmap](https://i.imgur.com/r0wnBVj.png)
 
 To augment above mentioned UX buzzwords, scroll down to the next chapter to see practical, real-life examples on successful UX.
 
