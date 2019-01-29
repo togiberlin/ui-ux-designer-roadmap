@@ -56,16 +56,17 @@ The tools of the trade for UI design are mainly [Sketch](https://www.sketchapp.c
 ### Use Symmetry for Great UI Designs
 Creating great UI designs can be hard, especially when you design for the first time. You design stuff but it always seems to lack that special _something_ compared to other, more "professional" designs. But you have no idea where to look for or what to improve. There is one guiding principle, which once understood, delivers **results immediately**. This guiding principle is **symmetry**. The rule is very simple: all objects must match each other in distance, size and thickness. Use this principle, whenever you can.
 
+### Use of typography.
+
 ### Theory of color
 On all designs is important to check the contrast of the color you using
 Try to not use middle colors too much
 Not abusing gradients
 and check which colors make contrast with others
-there are many, many softwares to do it, i recommend adobe kuler
 
-### Use of typography.
 
-| ----------------------------------------------------|
+
+| ---------------------------------------------------- |
 
 Consider this example: You compare 3 weather apps. 
 
