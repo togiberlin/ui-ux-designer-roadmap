@@ -65,7 +65,7 @@ there are many, many softwares to do it, i recommend adobe kuler
 
 ### Use of typography.
 
-
+| ----------------------------------------------------|
 
 Consider this example: You compare 3 weather apps. 
 
