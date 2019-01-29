@@ -60,9 +60,9 @@ Creating great UI designs can be hard, especially when you design for the first 
 
 ### Theory of color
 On all designs is important to check the contrast of the color you using
-Try to not use middle colors too much
-Not abusing gradients
-and check which colors make contrast with others
+* Try to not use middle colors too much
+* Not abusing gradients
+* and check which colors make contrast with others
 
 
 
