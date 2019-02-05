@@ -51,7 +51,7 @@ Before designing anything, it is fundamental to understand the underlying busine
 ## 🎨 User Interface Designer Roadmap
 The tools of the trade for UI design are mainly [Sketch](https://www.sketchapp.com/), [Adobe XD](http://www.adobe.com/de/products/experience-design.html), [Adobe Photoshop](http://www.adobe.com/de/products/photoshop.html) and [Adobe Illustrator](http://www.adobe.com/de/products/illustrator.html). Some UI designers also code HTML and CSS at work, so I've included it too.
 
-![UI Designer Roadmap](https://i.imgur.com/gE86pOc.png)
+![UI Designer Roadmap](https://i.imgur.com/0Gz3dqG.jpg)
 
 ### Use Symmetry for Great UI Designs
 Creating great UI designs can be hard, especially when you design for the first time. You design stuff but it always seems to lack that special _something_ compared to other, more "professional" designs. But you have no idea where to look for or what to improve. There is one guiding principle, which once understood, delivers **results immediately**. This guiding principle is **symmetry**. The rule is very simple: all objects must match each other in distance, size and thickness. Use this principle, whenever you can.
