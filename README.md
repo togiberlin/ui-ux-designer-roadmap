@@ -4,7 +4,6 @@
 
 Below, you'll find a roadmap on how to become a UI/UX designer. It lists all common tools of the trade in order to become a digital creative. It is inspired by [this roadmap on how to become a web developer](https://github.com/kamranahmedse/developer-roadmap).
 
-this is an updated version of the [Roadmap to becoming an UI/UX Designer 2017](https://github.com/togiberlin/designer-roadmap).
 
 If you have any improvements, don't hesitate to post an [issue](https://github.com/togiberlin/designer-roadmap/issues) or make a [pull request](https://github.com/togiberlin/designer-roadmap/pulls) 🙃
 
