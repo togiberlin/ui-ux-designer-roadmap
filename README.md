@@ -1,4 +1,4 @@
-#  Note: I'll do a full rewrite of this repo. I hope to finish it towards the end of 2019 / beginning of 2020.
+#  Note: A 2020/2021 rewrite is ongoing on [this repo](https://github.com/togiberlin/ui_ux_handbook).
 
 ![UI/UX Designer Roadmap](http://i.imgur.com/clLNiOD.png)
 
