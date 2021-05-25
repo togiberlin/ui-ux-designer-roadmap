@@ -265,6 +265,10 @@ If you are interested in contributing to this repo, we use [Balsamiq Mockups](ht
 - Discuss ideas in issues
 - Spread the word
 
+## Sponsors 
+
+[Paypal](https://www.paypal.com/donate?business=RBHMVN4AQGQE2&currency_code=BRL)
+
 ## License
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
